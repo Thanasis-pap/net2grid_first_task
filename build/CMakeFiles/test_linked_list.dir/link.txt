@@ -1,0 +1,1 @@
+/usr/bin/cc -pthread CMakeFiles/test_linked_list.dir/test/test_linked_list.c.o CMakeFiles/test_linked_list.dir/src/linked_list.c.o -o test_linked_list
